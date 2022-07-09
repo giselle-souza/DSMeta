@@ -15,3 +15,4 @@
 
 #### Sites utilizados durante o projeto:  
 <https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1?node-id=0%3A1>
+<https://www.homehost.com.br/blog/criar-sites/tabela-html/>
